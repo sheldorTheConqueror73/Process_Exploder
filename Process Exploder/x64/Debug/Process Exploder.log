@@ -1,0 +1,12 @@
+﻿  gui.cpp
+  main.cpp
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(27,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(27,9): message : consider using '%zd' in the format string
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(27,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(27,9): message : consider using '%zd' in the format string
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(32,9): warning C4101: 'temp': unreferenced local variable
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(91,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(142,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Chuck\source\repos\Process Exploder\Process Exploder\main.cpp(152,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Process Exploder.vcxproj -> C:\Users\Chuck\source\repos\Process Exploder\x64\Debug\Process Exploder.exe
